@@ -152,7 +152,7 @@ Kemudian, membuat directory website dengan ```mkdir /var/www/kanto.a2.com```. Pi
 <br /> Jangan lupa untuk mengunduh file pendukung dengan wget 10.151.36.234/kanto.com.zip di directory /var/www/kanto.a2.com. Extract file setelah file zip didownload.
 <br />
 Tampilan ```kanto.a2.com``` ketika dibuka di browser: <br />
-<img src="images/kanto.a2.com.png" width="400">
+<img src="images/kanto.a2.com.png" width="600">
 
 ## NO9
 Menggunakan rewrite agar ```http://kanto.a2.com/index.php/home``` bisa diakses hanya dengan ```http://kanto.a2.com/home```
